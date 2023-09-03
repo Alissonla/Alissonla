@@ -26,6 +26,4 @@
   <a href="https://instagram.com/alison.lucas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/alissonlucas-si/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Noltim/Noltim/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
