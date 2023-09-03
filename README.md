@@ -1,5 +1,5 @@
 ## Hi there! I'm Alisson Lucas
-- 🎓 studying information systems
+- 🎓 Studying information systems
 - 🚀 Web Developer | Tech Enthusiast
 - 🔭 HTML|CSS|JAVA SCRIPT 
 - 😄 Pronouns: he/his
