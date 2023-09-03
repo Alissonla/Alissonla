@@ -1,7 +1,8 @@
-## Olá! Eu sou o Alisson Lucas
-- 🔭 Em busca de uma oportunidade na area de front-end
-- 🌱 Estudando Java
-- 😄 Pronouns: ele/dele
+## Hi there! I'm Alisson Lucas
+- 🎓 studying information systems
+- 🚀 Web Developer | Tech Enthusiast
+- 🔭 HTML|CSS|JAVA SCRIPT 
+- 😄 Pronouns: he/his
 
 <div align="center"> 
   <a href="https://github.com/Alissonla">
@@ -10,8 +11,12 @@
     
 </div>
   <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  
+  
                    
   </div>
 
