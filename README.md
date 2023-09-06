@@ -2,7 +2,7 @@
 - 🎓 Studying Information Systems
 - 🚀 Web Developer | Tech Enthusiast
 - 🔭 HTML | CSS | JAVA SCRIPT 
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 
 <div align="center"> 
   <a href="https://github.com/Alissonla">
