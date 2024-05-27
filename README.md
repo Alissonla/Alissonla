@@ -1,7 +1,7 @@
 ## Hi there! I'm Alisson Lucas
 - 🎓 Studying Information Systems
 - 🚀 Web Developer | Tech Enthusiast
-- 🔭 HTML | CSS | JAVA SCRIPT 
+- 🔭 HTML | CSS | JAVA  
 - 😄 Pronouns: he/him
 
 <div align="center"> 
